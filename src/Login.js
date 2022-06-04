@@ -20,13 +20,15 @@ function Login() {
     }
     return (
         <div className="login">
+           <div className="login">
            <div className="login_container">
-               <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt=""/> 
+               <img src="https://static.vecteezy.com/system/resources/previews/007/802/398/non_2x/realistic-smartphone-chatting-3d-icon-illustrations-vector.jpg" alt=""/> 
                 <div className="login_text">
-                    <h1>Sign in to Whatsapp</h1>
+                    <h1>Sign Into Private Talk</h1>
                 </div>
                 <Button type="submit" onClick={signIn}>Sign in With Google</Button>
            </div>
+        </div>
         </div>
     );
 }
