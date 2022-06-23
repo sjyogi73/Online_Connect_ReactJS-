@@ -10,12 +10,21 @@
 }
 
 .sidebarChat_info > h2{
-    font-size: 16px;
+    color: #000;
+    font-size: 18px;
+    text-decoration: none;
     margin: 0px;
+    text-decoration: none !important;     
+    font-weight: 500;
+    
 }
 
 .sidebarChat_info > p{
+    text-decoration: none;
     margin: 0px;
+    color: #000;
+    opacity: 0.8;
+    font-size: 16px;
 }
 
 .sidebarChat_info{

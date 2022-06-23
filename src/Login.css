@@ -33,3 +33,124 @@
     color: white;
     font-size: 16px;
 }
+
+
+
+/*New Login Page Css Code*/
+/* Side Images */
+
+.Icon__image{
+    margin:16em 30em 0em 25em;
+    height: 15em;
+}
+
+.img__Company{
+    background-image: url("https://images.pexels.com/photos/376533/pexels-photo-376533.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    height: 48em;
+}
+
+/* LOg Content */
+
+.logForm{
+    background-color: #000;
+    color: #fff;
+}
+.LogForm__Heading{
+    color:#258bd6;
+    font-family: serif;
+    
+}
+.Form{
+    padding-left: 30px;
+}
+.Form>h5{
+   font-size: 60px;
+   font-weight: 600;
+}
+.logform__icon{
+    height: 80px;
+    margin: 40px 0 40px 0px;
+}
+.Form>h1{
+    letter-spacing: 3px;
+    font-size: 66px !important;
+    font-weight: 800;
+}
+.logContent>h4{
+    letter-spacing: 1.5px;
+    padding: 30px 0;
+    margin-bottom:25px;
+    font-size: 21px !important;
+    font-weight: 600;
+}
+img{
+    height: 30px;
+}
+
+.button{
+    margin-bottom: 30px;
+    width: 20em;
+    background-color: #fff;
+    color: #000;
+    height: 3em;
+    padding: 12px 42px;
+    border-radius: 5em !important;
+    font-weight: 800;
+}
+button{
+    margin-top:-1px !important ;
+    margin-bottom: 30px;
+    font-weight: 500;
+    font-size: 16px;
+    padding-left:em ;
+    background-color: #fff;
+    color: #000;
+    border: none;
+}
+.Log__button{
+margin-top: 40PX;
+   margin-bottom: 30px;
+   width: 20em;
+   background-color: rgb(81, 81, 232);
+    color: #fff;
+    height: 3em;
+    padding: 12px 42px;
+    border-radius: 5em !important;
+    font-weight: 800;
+}
+.Log__phone{
+    margin-top:-1px !important ;
+    font-weight: 500;
+    font-size: 16px;
+    padding-left:3em ;
+    background-color: rgb(81, 81, 232);
+    color: #fff;
+    border: none;
+}
+.sign__button{
+    
+   margin-bottom: 30px;
+   width: 20em;
+   background-color: #000;
+   border: 1px solid #fff;
+   height: 3em;
+   padding: 12px 42px;
+   border-radius: 5em !important;
+   font-weight: 800;
+}
+.sign__button>button{
+    margin-top:-1px !important ;
+    font-weight: 600 !important;
+    font-size: 16px;
+    padding-left:1.5em ;
+    color: rgb(50, 50, 230);
+    background-color: #000;
+    border: none;
+}
+.Signin>h2{
+    letter-spacing: 0px;
+   
+    margin-bottom:15px;
+    font-size: 20px !important;
+    font-weight: 400;
+}
