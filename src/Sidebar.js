@@ -34,11 +34,8 @@ function Sidebar(props) {
     return (
         <div className="sidebar">
             <div className="sidebar_header">
-                <Avatar src={user?.photoURL}/>
-                <div className="sidebar_headerRight">
-                    <IconButton>
-                        <DonutLargeIcon/>
-                    </IconButton>
+            <Avatar src={user?.photoURL}/>
+                <div className="sidebar_headerRight">   
                     <IconButton>
                         <ChatIcon/>
                     </IconButton>
@@ -47,6 +44,7 @@ function Sidebar(props) {
                     </IconButton>
                     
                 </div>
+              
             </div>
             <div className="sidebar_search">
                 <div className="sidebar_searchContainer">

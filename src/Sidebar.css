@@ -1,5 +1,5 @@
 .sidebar{
-    flex: 0.35;
+    flex: 0.55;
 }
 
 .sidebar_search{
@@ -43,6 +43,6 @@
 }
 
 .sidebar_headerRight > .MuiSvgIcon-root {
-    margin-right: 2vw;
+    margin-right: 8vw;
     font-size: 20px !important;
 }

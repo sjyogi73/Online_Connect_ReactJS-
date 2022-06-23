@@ -1,3 +1,10 @@
+
+@media (max-width: 979px) {
+    .img__Company { 
+       display: none;
+    }
+ }
+
 .login{
     background-color: #f8f8f8;
     height: 100vh;

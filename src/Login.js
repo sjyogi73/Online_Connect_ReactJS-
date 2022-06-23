@@ -33,7 +33,7 @@ function Login() {
           <div className='Form'>
           <img  className='logform__icon' src="https://www.svgrepo.com/show/6995/chat.svg" alt="" height={80} />
          
-          <h5 className='LogForm__Heading'>Chat's Begin</h5>
+          <h5 className='LogForm__Heading'>Mentors-Connect</h5>
           <div className="logContent">
             <h4>Join With Us.</h4>
             

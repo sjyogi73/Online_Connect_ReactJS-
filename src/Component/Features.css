@@ -3,11 +3,11 @@
   flex-direction: end;
   z-index: 1000;
   position: fixed;
-  margin-top: 20px;
+  margin-top: 0px;
   margin-bottom: 30em;
   left: 250px;
-  width: 200px;
-  height: 87%;
+  width: 320px;
+  height: 90%;
   margin-left: -250px;
   overflow-y: auto;
   background: #37474F;
@@ -29,7 +29,7 @@
   color: #fff;
   display: block;
   background-color: rgba(0, 0, 0, 0.414);
-  border-radius: 15px ;
+  border-radius: 5px ;
   text-decoration: none;
 }
 
@@ -37,28 +37,26 @@
   color: #fff;
 }
 
-#sidebar .nav{
-  
-}
 #sidebar .nav li{
-  padding:15px 0 0 20px;
+  padding:15px 0 0 80px;
   margin-bottom: 40px !important;
+  margin-left: 0px !important;
 }
 
 #sidebar .nav li a{
   text-decoration: none;
   background: none;
+  padding-bottom: 9px;
   border-bottom: 1px solid #455A64;
   color: #CFD8DC;
-  font-size: 22px;
+  font-size: 18px;
+  justify-content: space-between;
  
 }
+
 
 #sidebar .nav a:hover{
   background: none;
   color: #ECEFF1;
 }
 
-#sidebar .nav a i{
-  margin-right: 16px;
-}
