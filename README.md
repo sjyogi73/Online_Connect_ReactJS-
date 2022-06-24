@@ -27,6 +27,13 @@ Chating Space
 
 
 
+Updated Page
+
+![NewWindow](https://user-images.githubusercontent.com/82278181/175463343-ed0601c3-ef8b-4c42-85f7-8aeb2b7375d4.png)
+
+
+
+
 Deploye Link : https://whats-app-clone-4169d.web.app
 
 
