@@ -1,4 +1,16 @@
-# Build Private Chat App with ( React JS ), ( FireBase & Google Authentication )
+# In Campus Mentor's Connect with Students 
+
+       
+       This Project Only For developing my Skill
+       
+       Note: Try to make your Own Project , This Only For Reference to it
+       
+       
+ 
+        
+  Method to Run Project in your PC
+       
+  
 
 
       git clone https://github.com/sjyogi73/Online_ChatApp.git
